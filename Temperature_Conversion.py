@@ -1,6 +1,6 @@
-print("'''''''''''''''''''''''''''''''''")
+print("☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁")
 print('Temperature Conversion program')
-print("'''''''''''''''''''''''''''''''''")
+print("☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁ ☁")
 temp = int(input('Enter the Temperature: '))
 unit = input('Is it in Celsius or Fahrenheit (C/F): ')
 
