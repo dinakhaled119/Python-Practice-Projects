@@ -1,8 +1,8 @@
 import random
 
-print('=======================')
-print('Rock Paper Scissors')
-print('=======================')
+print('===========================')
+print(' Rock✊ Paper✋ Scissors✌️')
+print('===========================')
 
 print(' 1) ✊')
 print(' 2) ✋')
@@ -20,6 +20,3 @@ elif (player == 1 and computer == 3) or ( player == 2 and computer == 1) or ( pl
     print('You win! 🎉')
 else:
     print('Computer wins! 🤖')
-
-
-
