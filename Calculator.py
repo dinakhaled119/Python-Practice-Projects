@@ -1,5 +1,5 @@
 print('====================')
-print('Area Calculator 📐')
+print(' Area Calculator 📐')
 print('====================')
 
 print(' 1) Triangle')
