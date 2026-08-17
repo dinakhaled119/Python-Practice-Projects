@@ -1,7 +1,7 @@
 import time
 
 print('======================')
-print('  Countdown Timer ⏱')
+print('  Countdown Timer ⏱ ')
 print('======================')
 
 countdown = int(input('Seconds to countdown timer: '))
